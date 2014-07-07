@@ -1,0 +1,258 @@
+html, body, h1, h2, h3, h4 {
+	margin: 0;
+	padding: 0;
+}
+h1 img {
+	display: block;
+}
+img {
+	border: 0;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: blue;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.more {
+	text-align: right;
+}
+.clear {
+	clear: both;
+}
+
+body {
+	background: white url(images/bg.gif) repeat-x;
+	text-align: center;
+	font: 11px arial, sans-serif;
+	/*color: #E5D19C;*/
+	padding: 20px 0 0 0;
+}
+
+/** layout **/
+#wrapper {
+    text-align: left;
+    margin: auto;
+    width: 900px;
+    position: relative;
+    background-color: white;
+}
+
+/** header **/
+#header{
+  height: 150px;
+  text-align: left;
+  margin: auto;
+  width: 900px;
+  position: relative;
+  background-color: white;
+  background-color:transparent;
+  background: url(images/logo.gif) no-repeat;
+}
+
+/** content **/
+
+#pics{
+	padding: 20px 20px 0px 0px;
+	float: right;
+	background-color: white;
+	display: inline;
+}
+
+#content {
+  margin: 20px 10px 10px 30px;
+  background-color: white;
+  width: 650px;
+}
+#content h2 {
+  font: 24px "Times new roman", serif;
+  color: #05089a;
+  font-weight: bold;
+  /*border-left: 3px solid #615331;*/
+  padding: 10px 1px 1px 10px;
+  /*margin-top: 22px;*/
+}
+#content p {
+  margin-left: 11px;
+  line-height: 1.4;
+  text-indent: 20px;
+  text-align: justify;
+}
+#content a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+#content a:hover {
+  color: black;
+}
+
+/*#content .left-col {
+  float: left;
+  width: 600px;
+}*/
+
+#content #section {
+  margin-right: 40px;
+  font-size:13px;
+  color: black;
+}
+
+#content #section h2{
+ background: top left url(images/ulbg.gif) no-repeat;
+}
+
+#content #section h3{
+    font: 19px "Times new roman", serif;
+    color: #3a3a3a;
+    font-weight: 900;
+    padding: 0px 0px 10px 10px; 
+}
+
+#content #section h4{
+    font: 16px "Times new roman", serif;
+    color: #389000;
+    font-weight: 900;
+    padding: 0px 0px 10px 10px; 
+}
+
+#content #section h5{
+    font: 14px "Times new roman", serif;
+    color: #8a8a8a;
+    font-weight:normal;
+    padding: 0px 0px 0px 10px; 
+}
+
+#content #section a:hover{
+  color: #05089a;
+  text-decoration:underline;
+}
+
+#content #section ul{
+    list-style:square inside url("images/arrow.gif");
+}
+#content #section li{
+	margin: 5px 5px 15px 5px;
+}
+
+#content #faqlist li{
+	list-style: circle;
+	float: none;
+	border: none;
+	width: 400px;
+	margin: 0px;
+	padding: 5px 0px 0px 0px;
+}
+
+#content #faqlist ul {
+  height: inherit;
+  line-height: normal;
+  border-bottom: none;
+}
+
+#content #month ul{
+	list-style: none;
+	height: inherit;
+	line-height: normal;
+}
+
+#content #month li{
+	list-style: disc;
+	float: none;
+	border: none;
+	width: 400px;
+	margin: 0px;
+	padding: 5px 0px 0px 0px;
+}
+
+#photogallery table{
+	border-collapse: separate;
+	border-spacing: 15px;
+	text-align: center;
+}
+
+#firstlink{
+	border: 1px dashed #888888;
+	padding: 10px 10px 10px 10px;
+	height:90px;
+	font-size: 16px;
+}
+
+#firstlink #img{
+	float:left;
+}
+
+#contact li{
+	list-style: none;
+}
+
+#footer {
+    height: 40px;
+    padding-top: 10px;
+}
+
+#footer h1{
+    font: 10px "Times new roman", serif;
+    color: black;
+    text-align: center;
+}
+
+
+#sddm
+{	margin: 0;
+	padding: 10px 10px 10px 45px;
+	z-index: 30}
+
+#sddm li
+{	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	font: 12px arial}
+
+#sddm li a
+{	display: block;
+	margin: 0 1px 0 0;
+	padding: 15px 10px 15px 10px;
+	/*width: 90px;*/
+	background: #FFA54F;
+	/*color: #FFF;*/
+	text-align: center;
+	text-decoration: none}
+
+#sddm li a:hover
+{
+	background-color: #FFCC66;
+}
+
+#sddm div
+{	position: absolute;
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	background: #EAEBD8;
+	border: 1px solid #5970B2}
+
+#sddm div a
+{	position: relative;
+	display: block;
+	margin: 0;
+	padding: 5px 10px;
+	width: auto;
+	white-space: nowrap;
+	text-align: left;
+	text-decoration: none;
+	background: #EAEBD8;
+	/*color: #2875DE;*/
+	font: 12px arial}
+
+#sddm div a:hover
+{	
+	background: #FFCC66;
+}

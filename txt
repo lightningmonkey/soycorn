@@ -1,0 +1,16 @@
+oybean And Corn Advisor. Our mission is to 
+	    provide to our clients accurate, timely, 
+	    and unbiased information concerning worldwide soybean and corn production.  
+	  </p>
+	  <h2>Top News</h2>
+	  <p>
+	    <ul>
+	     <li><a href="news/july21beef.html">Argentine May Need To Import Wheat And Beef In 2010</a></li>
+	     <li><a href="news/july21alcohol.html">Price Of Alcohol In Brazil Only 43% Price Of Gasoline</a></li>
+	     <li><a href="news/july21merger.html">Merger Of Sadia And Perdigao Creates Brazilian Powerhouse</a></li>
+	     <li><a href="news/july21soy.html">New Soy Variety Tolerant To ‚ÄúRust‚Äù Available To Plant In Brazil</a></li>
+	     <li><a href="news/july21financial.html">Financial Situation Of Brazilian Farmers Still Precarious</a></li>
+	     <li><a href="news/july21ban.html">90-day Ban On Soybean Production In Effect In Brazil</a></li>
+	     <li><a href="news/july21construction.html">Construction Set To Resume On Mato Grosso Railroad</a></li>
+	   </ul>
+	  </p><br/> ')

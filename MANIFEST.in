@@ -1,0 +1,3 @@
+include soycorn/config/deployment.ini_tmpl
+recursive-include soycorn/public *
+recursive-include soycorn/templates *

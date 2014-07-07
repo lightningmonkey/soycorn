@@ -1,0 +1,40 @@
+<h2>Contact Us</h2>
+<br/>
+<!--Send an email to Soycorn@comcast.net below:<br/><br/>
+<form action="MAILTO:soycorn@comcast.net" method="post" enctype="text/plain">
+
+Name:<br/>
+<input type="text" name="name" value="Your name here" size="20">
+<br/><br/>
+Company Name:<br/>
+<input type="text" name="CompanyName" value="Your company here" size="20">
+<br/><br/>
+Mail:<br/>
+<input type="text" name="mail" value="Your e-mail here" size="20">
+<br/><br/>
+Comment:<br/>
+<textarea name="comment" rows="10" cols="50">
+Enter your comment
+</textarea><br/>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+
+</form><br/>-->
+<table>
+<tr>
+	<td>Email:</td> <td> Soycorn@comcast.net</td>
+</tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr>
+	<td>Phone:</td> <td> 630.325.0192</td>
+</tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+
+<tr>
+	<td valign="top">Mail:<td> Soybean and Corn Advisor<br/>
+				  P.O. Box 86<br/>
+			      Hinsdale IL, 60521</td>
+</tr>
+</table><br/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
