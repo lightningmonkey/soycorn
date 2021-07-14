@@ -1,0 +1,22 @@
+July 5, 2017
+Comparing Acreage and Production - U.S., Brazil, and Argentina
+<p>
+	Comparing crop production between the United States and South America is confusing many times because the U.S. production is reported in acres and billion bushels, while South American production is reported in hectares and million metric tons. So I thought it would be helpful to compare the U.S., Brazil and Argentina all in same metric units.  The data below is from the current USDA production estimates for all three countries.  The corn and soybean harvested acreage is in hectares and the production is in million metric tons.
+</p>
+<p>
+	The crop years are also sometimes confusing, so the 2016 column refers to the 2016 crop in the U.S. and the 2016/17 crop in South America.  The 2017 column refers to the current crop in the U.S. and the projected 2017/18 crop in South America that they will start planting in September.  
+</p>
+<p>
+	During the last growing season in all three countries, the United States produced about 2.8 times more corn than Brazil and Argentina combined.  Whereas for soybeans, Brazil and Argentina combined produced about 1.5 times more soybeans than the United States.  The big picture is that the U.S. makes the corn market and South America makes the soybean market.
+</p>
+<table border="1">
+<tr><th>&nbsp;</th><th colspan="3">2016</th><th colspan="3">2017</th></tr>
+<tr><th>&nbsp;</th><td>U. S.</td><td>Brazil</td><td>Argentina</td><td>U. S.</td><td>Brazil</td><td>Argentina</td></tr>
+
+<tr><td>Corn Harvested (hectares)</td><td>35.10</td><td>17.50</td><td>4.80</td><td>33.34</td><td>17.70</td><td>4.90</td></tr>
+<tr><td>Corn Production (mmt)</td><td>384.77</td><td>97.00</td><td>40.00</td><td>357.26</td><td>95.00</td><td>40.00</td></tr>
+
+<tr><td>Soybean Harvested (hectares)</td><td>33.48</td><td>34.00</td><td>18.65 </td><td>35.85</td><td>34.70</td><td>19.10</td></tr>
+<tr><td>Soybean Production (mmt)</td><td>117.20</td><td>114.00</td><td>57.80 </td><td>115.80</td><td>107.00</td><td>57.00</td></tr>
+
+</table>
